@@ -41,7 +41,7 @@ export default function Tracker(){
 
     <div className="tracker">
 
-      <h1>Interview Preparation Tracker</h1>
+      <h1> </h1>
     <h3>Add Task To Crack the interview</h3>
       <input
         type="text"
